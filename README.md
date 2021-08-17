@@ -1,5 +1,5 @@
 # label-automator
-MacOS automator script to autocrop and print 2 page StockX and Goat labels from PDF format.
+MacOS automator script to autocrop and print 2 page StockX and Goat labels from PDF format for use on 4"x6" thermal label printer.
 Dependencies: ImageMagick - can be downloaded using HomeBrew.
 
 Usage: Download the workflow files from the repository and place it in the /Macintosh HD/Users/your_user_here/Library/Services folder. Then navigate to the pdf file of interest and use the appropriate quick action to execute the workflow.
